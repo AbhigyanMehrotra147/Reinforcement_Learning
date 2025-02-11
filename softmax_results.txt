@@ -1,0 +1,57 @@
+User_1: 
+Average rewards of User_1 bandit:
+ [-4.30435736  2.30956337 -3.16335756  5.99829367] 
+
+Best action of User_1 bandit:	 4 
+
+Full display of User_1 bandit:
+ [[ -4.30435736   2.30956337  -3.16335756   5.99829367]
+ [  0.           1.01         2.02         3.03      ]
+ [  0.87        21.19         0.85       308.48      ]] 
+
+Total Reward for the User_1 bandit:	 1892.860 
+
+Average Reward of User_1 bandit:	 5.712 
+
+
+
+
+
+User_2: 
+Average rewards of User_2 bandit:
+ [ 0.89717773  4.01041748 -2.19771332 -6.04287811] 
+
+Best action of User_2 bandit:	 2 
+
+Full display of User_2 bandit:
+ [[  0.89717773   4.01041748  -2.19771332  -6.04287811]
+ [  4.04         5.05         6.06         7.07      ]
+ [ 16.1        316.94         1.9          1.05      ]] 
+
+Total Reward for the User_2 bandit:	 1274.986 
+
+Average Reward of User_2 bandit:	 3.795 
+
+
+
+
+
+User_3: 
+Average rewards of User_3 bandit:
+ [-3.75935172  4.32493948  5.10434106 -0.96051465] 
+
+Best action of User_3 bandit:	 3 
+
+Full display of User_3 bandit:
+ [[ -3.75935172   4.32493948   5.10434106  -0.96051465]
+ [  8.08         9.09        10.1         11.11      ]
+ [  0.38       172.9        158.97         0.37      ]] 
+
+Total Reward for the User_3 bandit:	 1557.435 
+
+Average Reward of User_3 bandit:	 4.682 
+
+
+
+
+
